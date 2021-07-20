@@ -1,0 +1,18 @@
+{
+  "log": [
+    {
+      "directory": "\/tmp\/appd\/dotnet",
+      "level": "Trace",
+      "channel": "protobuf"
+    },
+    {
+      "filename": "WarnLog",
+      "level": "WARN",
+      "channel": "*"
+    },
+    {
+      "root_directory": "\/tmp\/appd\/dotnet",
+      "level": "Trace"
+    }
+  ]
+}
